@@ -1,0 +1,7 @@
+aiohttp
+fastapi[all]
+pydantic
+
+# Linting and testing
+black
+pytest-asyncio
