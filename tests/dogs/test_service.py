@@ -1,6 +1,6 @@
 import pytest
 
-import service
+from dogs import service
 
 
 @pytest.mark.asyncio

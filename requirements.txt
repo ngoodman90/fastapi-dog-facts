@@ -1,7 +1,8 @@
-aiohttp
-fastapi[all]
-pydantic
+aiohttp~=3.8.1
+fastapi[all]~=0.79.1
+pydantic~=1.9.2
 
 # Linting and testing
 black
+pytest
 pytest-asyncio

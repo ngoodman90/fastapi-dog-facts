@@ -1,7 +1,7 @@
 import aiohttp
 import fastapi
 
-import models
+from dogs import models
 
 DOG_FACTS_URL = "https://dog-api.kinduff.com/api/facts"
 
